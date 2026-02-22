@@ -1,0 +1,8 @@
+# YOLO 数据集配置文件
+path: EL2021_split\pavel_split\pavel # 数据集根路径
+train: images/train
+val: images/valid
+test: images/test  # 可选
+# 类别
+nc: 6
+names: ['thick_line', 'horizontal_dislocation', 'black_core', 'finger', 'short_circuit', 'crack']
