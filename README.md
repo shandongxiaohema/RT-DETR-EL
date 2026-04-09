@@ -288,7 +288,7 @@ The model uses RT-DETR (Real-Time Deformable Transformer) with custom improvemen
 - **Backbone:** HGNetV2 or ResNet variants
 - **Neck:** Feature Pyramid Network (FPN)
 - **Head:** Deformable Transformer with attention mechanisms
-- **Custom modules:** SOEP, BiFormer, CBAM for enhanced feature extraction
+- **Custom modules:** GGA, MDP-Neck for enhanced feature extraction
 
 ---
 
